@@ -23,8 +23,9 @@ using namespace std;
   }
   catch(float a1)
   {
-    cout<<"Divide by zero exception occurs"<<endl;
+    cout<<"Divide by zero exception occurs"<<a1<<endl;
   }
+  
   
   
   

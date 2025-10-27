@@ -42,7 +42,7 @@ private:
   degree d2;
   farenheit f2;
   d2.input();
-  f2 = d2;
+  f2 = d2;//source degree , destination is farenheiht
   f2.display();
   
 return 0;

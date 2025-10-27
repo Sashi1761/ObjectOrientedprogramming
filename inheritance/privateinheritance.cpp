@@ -4,6 +4,7 @@ class base
 {
 protected:
 int l,b;
+
 };
 class derived: private base
 {
